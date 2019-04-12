@@ -1,14 +1,20 @@
 import cv2
 import argparse
 import os
+import pathlib
 
 ap = argparse.ArgumentParser()
 ap.add_argument("--image", "-i", help="path to image to analysed, will try to open webcam if not set")
 args = ap.parse_args()
 
+fn = pathlib.Path(__file__).parent
+print(fn)
+
 # Load the Haar cascades
-face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
-eyes_cascade = cv2.CascadeClassifier('haarcascade_eye.xml')
+face_path = fn / "haarcascade_frontalface_default.xml"
+eye_path = fn / "haarcascade_eye.xml"
+face_cascade = cv2.CascadeClassifier(str(face_path))
+eyes_cascade = cv2.CascadeClassifier(str(eye_path))
 eye_replacement = cv2.imread('m87.png', cv2.IMREAD_UNCHANGED)
 
 
@@ -84,6 +90,7 @@ if args.image is None:
     cv2.destroyAllWindows()
 
 else:
+
     print(args.image)
     img = cv2.imread(args.image, cv2.IMREAD_UNCHANGED)
 
