@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7457c66-6cff-4635-aa20-6c87af102fb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drizzle_testing/BayeringBook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drizzle_testing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drizzle_testing/apply_bayer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/black_hole_eye/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/black_hole_eye/main.py" afterDir="false" />
     </list>
@@ -14,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/black_hole_eye/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+            <state relative-caret-position="-573">
+              <caret selection-end-line="3" selection-end-column="14" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -26,11 +28,29 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/drizzle_testing/apply_bayer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" column="56" lean-forward="true" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drizzle_testing/BayeringBook.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -42,13 +62,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/black_hole_eye/main.py" />
+        <option value="$PROJECT_DIR$/apply_bayer/main.py" />
+        <option value="$PROJECT_DIR$/apply_bayer/BayeringBook.ipynb" />
+        <option value="$PROJECT_DIR$/apply_bayer/apply_bayer.py" />
+        <option value="$PROJECT_DIR$/drizzle_testing/apply_bayer.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="778" />
+    <option name="x" value="775" />
     <option name="y" value="96" />
-    <option name="width" value="1762" />
+    <option name="width" value="1764" />
     <option name="height" value="1932" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -57,7 +81,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,22 +93,33 @@
               <item name="analytical_python" type="462c0819:PsiDirectoryNode" />
               <item name="black_hole_eye" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="analytical_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="analytical_python" type="462c0819:PsiDirectoryNode" />
+              <item name="drizzle_testing" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/black_hole_eye/main.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/drizzle_testing/apply_bayer.py" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alist\OneDrive\Development\analytical_python\drizzle_testing" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -99,7 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.black_hole_eye_single">
+  <component name="RunManager" selected="Python.bayer folder">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="analytical_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,6 +148,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bayer folder" type="PythonConfigurationType" factoryName="Python">
+      <module name="analytical_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\alist\AppData\Local\conda\conda\envs\thesis\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/drizzle_testing" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/drizzle_testing/apply_bayer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,14 +204,14 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\alist\Miniconda2\envs\thesis\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/black_hole_eye" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/black_hole_eye/main.py" />
-      <option name="PARAMETERS" value="-i &quot;$USER_HOME$/Pictures/21st/good pics/IMG_1945.jpg&quot;" />
+      <option name="PARAMETERS" value="-i &quot;C:\Users\alist\Downloads\20180801_124857.jpg&quot;" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -168,6 +221,7 @@
     </configuration>
     <list>
       <item itemvalue="Python.black_hole_eye" />
+      <item itemvalue="Python.bayer folder" />
       <item itemvalue="Python.black_hole_eye_single" />
     </list>
   </component>
@@ -183,56 +237,117 @@
       <updated>1554977045865</updated>
       <workItem from="1554977052994" duration="7861000" />
       <workItem from="1555030490553" duration="9337000" />
-      <workItem from="1555063492925" duration="2110000" />
+      <workItem from="1555063492925" duration="2852000" />
+      <workItem from="1555072324667" duration="1799000" />
+      <workItem from="1555140986309" duration="3940000" />
+      <workItem from="1555217600151" duration="203000" />
+      <workItem from="1555978213822" duration="6633000" />
     </task>
+    <task id="LOCAL-00001" summary="updated haarcascade path generation">
+      <created>1555067229414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555067229414</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19308000" />
+    <option name="totallyTimeSpent" value="32625000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1513" height="973" extended-state="6" />
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14481811" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.067143425" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Jupyter" weight="0.23676012" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32938388" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3992891" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32866043" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39875388" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32943925" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32943925" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.1492891" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32943925" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.1487539" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32938388" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" x="0" y="0" width="328" height="773" id="Documentation" order="4" side_tool="true" visible="true" weight="0.18943034" />
+      <window_info anchor="right" x="0" y="0" width="328" height="773" id="Documentation" order="4" side_tool="true" visible="true" weight="0.08343266" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated haarcascade path generation" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated haarcascade path generation" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/drizzle_testing/apply_bayer.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/analytical_python$black_hole_eye_single.coverage" NAME="black_hole_eye_single Coverage Results" MODIFIED="1555067190436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/black_hole_eye" />
-    <SUITE FILE_PATH="coverage/analytical_python$black_hole_eye.coverage" NAME="black_hole_eye Coverage Results" MODIFIED="1555065184320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/black_hole_eye" />
+    <SUITE FILE_PATH="coverage/analytical_python$bayer_folder.coverage" NAME="bayer folder Coverage Results" MODIFIED="1555980827423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/drizzle_testing" />
+    <SUITE FILE_PATH="coverage/analytical_python$black_hole_eye_single.coverage" NAME="black_hole_eye_single Coverage Results" MODIFIED="1555151051795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/black_hole_eye" />
+    <SUITE FILE_PATH="coverage/analytical_python$black_hole_eye.coverage" NAME="black_hole_eye Coverage Results" MODIFIED="1555217678216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/black_hole_eye" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/apply_bayer/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drizzle_testing/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/black_hole_eye/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        <state relative-caret-position="-573">
+          <caret selection-end-line="3" selection-end-column="14" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drizzle_testing/BayeringBook.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drizzle_testing/apply_bayer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="56" lean-forward="true" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>

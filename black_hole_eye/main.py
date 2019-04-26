@@ -13,6 +13,8 @@ print(fn)
 # Load the Haar cascades
 face_path = fn / "haarcascade_frontalface_default.xml"
 eye_path = fn / "haarcascade_eye.xml"
+
+
 face_cascade = cv2.CascadeClassifier(str(face_path))
 eyes_cascade = cv2.CascadeClassifier(str(eye_path))
 eye_replacement = cv2.imread('m87.png', cv2.IMREAD_UNCHANGED)
@@ -92,7 +94,7 @@ if args.image is None:
 else:
 
     print(args.image)
-    img = cv2.imread(args.image, cv2.IMREAD_UNCHANGED)
+    img = cv2.imread(args.image)
 
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     frame_bgra = cv2.cvtColor(img, cv2.COLOR_BGR2BGRA)
@@ -101,4 +103,5 @@ else:
     canvas = detect(gray, frame_bgra)
 
     img_name, img_ext = os.path.splitext(args.image)
+
     cv2.imwrite(img_name+"_bh_eye.jpg",canvas)
