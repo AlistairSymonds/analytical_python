@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7457c66-6cff-4635-aa20-6c87af102fb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/drizzle_testing/BayeringBook.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drizzle_testing/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drizzle_testing/apply_bayer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_fill_image/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_fill_image/fill_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_fill_image/fill_text/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_fill_image/fill_text/random_fill.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/black_hole_eye/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/black_hole_eye/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/black_hole_eye/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-573">
-              <caret selection-end-line="3" selection-end-column="14" />
+            <state relative-caret-position="-663">
+              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -28,21 +28,49 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/drizzle_testing/apply_bayer.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text_fill_image/fill_text.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="56" lean-forward="true" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
+            <state relative-caret-position="629">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/text_fill_image/fill_text/random_fill.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/drizzle_testing/BayeringBook.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
+        <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/thesis/Lib/site-packages/PIL/ImageDraw.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drizzle_testing/apply_bayer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -66,11 +94,15 @@
         <option value="$PROJECT_DIR$/apply_bayer/BayeringBook.ipynb" />
         <option value="$PROJECT_DIR$/apply_bayer/apply_bayer.py" />
         <option value="$PROJECT_DIR$/drizzle_testing/apply_bayer.py" />
+        <option value="$PROJECT_DIR$/text_fill_image/random_fill.py" />
+        <option value="$PROJECT_DIR$/text_fill_image/fill_text/fill_text.py" />
+        <option value="$PROJECT_DIR$/text_fill_image/fill_text.py" />
+        <option value="$PROJECT_DIR$/text_fill_image/fill_text/random_fill.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="775" />
+    <option name="x" value="774" />
     <option name="y" value="96" />
     <option name="width" value="1764" />
     <option name="height" value="1932" />
@@ -98,6 +130,17 @@
               <item name="analytical_python" type="462c0819:PsiDirectoryNode" />
               <item name="drizzle_testing" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="analytical_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="analytical_python" type="462c0819:PsiDirectoryNode" />
+              <item name="text_fill_image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="analytical_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="analytical_python" type="462c0819:PsiDirectoryNode" />
+              <item name="text_fill_image" type="462c0819:PsiDirectoryNode" />
+              <item name="fill_text" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -108,7 +151,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/drizzle_testing/apply_bayer.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/text_fill_image/fill_text.py" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -117,6 +160,10 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alist\OneDrive\Development\analytical_python\text_fill_image\fill_text" />
+      <recent name="C:\Users\alist\OneDrive\Development\analytical_python\text_fill_image" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\alist\OneDrive\Development\analytical_python\drizzle_testing" />
     </key>
@@ -133,7 +180,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bayer folder">
+  <component name="RunManager" selected="Python.Fill Image">
+    <configuration name="Fill Image" type="PythonConfigurationType" factoryName="Python">
+      <module name="analytical_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\alist\AppData\Local\conda\conda\envs\thesis\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_fill_image" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\alist\OneDrive\Development\analytical_python\text_fill_image\fill_text.py" />
+      <option name="PARAMETERS" value="--font_dir C:\Windows\Fonts C:\Users\alist\OneDrive\Documents\Memes --output_h_cm 96.6 --output_w_cm 74 --dpi 300" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="analytical_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,6 +229,9 @@
       <module name="analytical_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\alist\AppData\Local\conda\conda\envs\thesis\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/drizzle_testing" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -222,6 +294,7 @@
     <list>
       <item itemvalue="Python.black_hole_eye" />
       <item itemvalue="Python.bayer folder" />
+      <item itemvalue="Python.Fill Image" />
       <item itemvalue="Python.black_hole_eye_single" />
     </list>
   </component>
@@ -242,6 +315,9 @@
       <workItem from="1555140986309" duration="3940000" />
       <workItem from="1555217600151" duration="203000" />
       <workItem from="1555978213822" duration="6633000" />
+      <workItem from="1556240097915" duration="774000" />
+      <workItem from="1556793024841" duration="19000" />
+      <workItem from="1559367746752" duration="10075000" />
     </task>
     <task id="LOCAL-00001" summary="updated haarcascade path generation">
       <created>1555067229414</created>
@@ -254,7 +330,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32625000" />
+    <option name="totallyTimeSpent" value="43493000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -269,13 +345,38 @@
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.067143425" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12793007" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Jupyter" weight="0.23676012" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32866043" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32866043" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2975078" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32943925" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32943925" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32943925" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.14797507" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32938388" />
+      <window_info anchor="bottom" id="Jupyter" order="14" weight="0.23676012" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" x="0" y="0" width="328" height="773" id="Documentation" order="4" side_tool="true" weight="0.17361939" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12793007" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32866043" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39875388" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -285,15 +386,16 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32943925" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.1487539" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.14797507" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32938388" />
+      <window_info anchor="bottom" id="Jupyter" order="14" weight="0.23676012" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" x="0" y="0" width="328" height="773" id="Documentation" order="4" side_tool="true" visible="true" weight="0.08343266" />
+      <window_info anchor="right" x="0" y="0" width="328" height="773" id="Documentation" order="4" side_tool="true" visible="true" weight="0.17361939" />
       <window_info anchor="right" id="Database" order="5" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -306,9 +408,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/drizzle_testing/apply_bayer.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/text_fill_image/fill_text/random_fill.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -317,37 +419,62 @@
     <SUITE FILE_PATH="coverage/analytical_python$bayer_folder.coverage" NAME="bayer folder Coverage Results" MODIFIED="1555980827423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/drizzle_testing" />
     <SUITE FILE_PATH="coverage/analytical_python$black_hole_eye_single.coverage" NAME="black_hole_eye_single Coverage Results" MODIFIED="1555151051795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/black_hole_eye" />
     <SUITE FILE_PATH="coverage/analytical_python$black_hole_eye.coverage" NAME="black_hole_eye Coverage Results" MODIFIED="1555217678216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/black_hole_eye" />
+    <SUITE FILE_PATH="coverage/analytical_python$Fill_Image.coverage" NAME="Fill Image Coverage Results" MODIFIED="1559378410050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/text_fill_image" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/apply_bayer/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/apply_bayer/main.py" />
     <entry file="file://$PROJECT_DIR$/drizzle_testing/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/drizzle_testing/BayeringBook.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_fill_image/a_test.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drizzle_testing/apply_bayer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/black_hole_eye/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-573">
-          <caret selection-end-line="3" selection-end-column="14" />
+        <state relative-caret-position="-663">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/drizzle_testing/BayeringBook.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drizzle_testing/apply_bayer.py">
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/thesis/Lib/site-packages/PIL/ImageDraw.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="56" lean-forward="true" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
+        <state relative-caret-position="291">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_fill_image/fill_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_fill_image/fill_text/random_fill.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
