@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7457c66-6cff-4635-aa20-6c87af102fb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/text_fill_image/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_fill_image/fill_text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_fill_image/fill_text/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_fill_image/fill_text/random_fill.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text_fill_image/fill_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/text_fill_image/fill_text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text_fill_image/fill_text/random_fill.py" beforeDir="false" afterPath="$PROJECT_DIR$/text_fill_image/fill_text/random_fill.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,23 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/black_hole_eye/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-663">
-              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/text_fill_image/fill_text.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="641">
+              <caret line="47" column="59" lean-forward="true" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -40,34 +26,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/text_fill_image/fill_text/random_fill.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+            <state relative-caret-position="221">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/thesis/Lib/site-packages/PIL/ImageDraw.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="59" selection-start-line="59" selection-end-line="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/drizzle_testing/apply_bayer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,6 +48,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mask</find>
+      <find>99 ==</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -96,8 +67,8 @@
         <option value="$PROJECT_DIR$/drizzle_testing/apply_bayer.py" />
         <option value="$PROJECT_DIR$/text_fill_image/random_fill.py" />
         <option value="$PROJECT_DIR$/text_fill_image/fill_text/fill_text.py" />
-        <option value="$PROJECT_DIR$/text_fill_image/fill_text.py" />
         <option value="$PROJECT_DIR$/text_fill_image/fill_text/random_fill.py" />
+        <option value="$PROJECT_DIR$/text_fill_image/fill_text.py" />
       </list>
     </option>
   </component>
@@ -194,8 +165,8 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\alist\OneDrive\Development\analytical_python\text_fill_image\fill_text.py" />
-      <option name="PARAMETERS" value="--font_dir C:\Windows\Fonts C:\Users\alist\OneDrive\Documents\Memes --output_h_cm 96.6 --output_w_cm 74 --dpi 300" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_fill_image/fill_text.py" />
+      <option name="PARAMETERS" value="--font_dir $PROJECT_DIR$/../../Documents/Memes/cm-unicode-0.7.0/ --output_h_cm 150 --output_w_cm 150 --dpi 300" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -317,7 +288,8 @@
       <workItem from="1555978213822" duration="6633000" />
       <workItem from="1556240097915" duration="774000" />
       <workItem from="1556793024841" duration="19000" />
-      <workItem from="1559367746752" duration="10075000" />
+      <workItem from="1559367746752" duration="28671000" />
+      <workItem from="1559438206279" duration="1655000" />
     </task>
     <task id="LOCAL-00001" summary="updated haarcascade path generation">
       <created>1555067229414</created>
@@ -326,11 +298,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555067229414</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="WIP greek bae text generator">
+      <created>1559378646427</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559378646427</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43493000" />
+    <option name="totallyTimeSpent" value="63744000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -345,7 +324,7 @@
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12793007" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12872468" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -367,7 +346,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" x="0" y="0" width="328" height="773" id="Documentation" order="4" side_tool="true" weight="0.17361939" />
+      <window_info anchor="right" x="0" y="0" width="328" height="773" id="Documentation" order="4" side_tool="true" visible="true" weight="0.17361939" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
     <layout-to-restore>
@@ -402,24 +381,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated haarcascade path generation" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated haarcascade path generation" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/text_fill_image/fill_text/random_fill.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="WIP greek bae text generator" />
+    <option name="LAST_COMMIT_MESSAGE" value="WIP greek bae text generator" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/analytical_python$bayer_folder.coverage" NAME="bayer folder Coverage Results" MODIFIED="1555980827423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/drizzle_testing" />
     <SUITE FILE_PATH="coverage/analytical_python$black_hole_eye_single.coverage" NAME="black_hole_eye_single Coverage Results" MODIFIED="1555151051795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/black_hole_eye" />
     <SUITE FILE_PATH="coverage/analytical_python$black_hole_eye.coverage" NAME="black_hole_eye Coverage Results" MODIFIED="1555217678216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/black_hole_eye" />
-    <SUITE FILE_PATH="coverage/analytical_python$Fill_Image.coverage" NAME="Fill Image Coverage Results" MODIFIED="1559378410050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/text_fill_image" />
+    <SUITE FILE_PATH="coverage/analytical_python$Fill_Image.coverage" NAME="Fill Image Coverage Results" MODIFIED="1559441184369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/text_fill_image" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>i == 22</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/apply_bayer/main.py" />
@@ -429,25 +407,13 @@
     <entry file="file://$PROJECT_DIR$/drizzle_testing/BayeringBook.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/text_fill_image/a_test.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/text_fill_image/a_test.png" />
     <entry file="file://$PROJECT_DIR$/drizzle_testing/apply_bayer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/black_hole_eye/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-663">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -459,22 +425,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/text_fill_image/fill_text.py">
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/thesis/Lib/site-packages/PIL/Image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="291">
+          <caret line="2534" selection-start-line="2534" selection-end-line="2534" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/black_hole_eye/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1059">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/thesis/Lib/pathlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="639" selection-start-line="639" selection-end-line="639" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/thesis/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="323" selection-start-line="323" selection-end-line="323" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/text_fill_image/fill_text/random_fill.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+        <state relative-caret-position="221">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_fill_image/fill_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="47" column="59" lean-forward="true" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
